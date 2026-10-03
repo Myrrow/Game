@@ -775,7 +775,7 @@
   (window.MiniGames = window.MiniGames || []).push({
     id: 'firefly',
     title: '夏夜捕萤',
-    tagline: '提着玻璃罐，接住发光的萤火虫。',
+    tagline: '提着罐子，接住发光的萤火虫',
     controls: '鼠标 · 触屏 · 方向键',
     accent: '#e3f07a',
     bestLabel: '分',
